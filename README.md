@@ -53,8 +53,14 @@ across connected services.
 
 ## 📂 Project Structure
 
-ai-workflow-orchestrator/ │── workflows/ │ └── main-workflow.json │──
-assets/ │ └── workflow-diagram.png │── README.md
+```text
+ai-workflow-orchestrator/
+├── workflows/
+│   └── main-workflow.json
+├── assets/
+│   └── workflow-diagram.png
+└── README.md
+```
 
 ------------------------------------------------------------------------
 
